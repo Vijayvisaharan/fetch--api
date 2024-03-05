@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(41, 44, 58);
+}
+.card{
+ 
+   width: 400px;
+   height: 500px;
+   text-align: center;
+    
+    margin: 10px 10px;
+    background-color: rgb(95, 141, 114);
+}
+.card-header{
+    text-align: center;
+    background-color: black;
+}
+.btn {
+background-color: brown;
+text-align-last:top;
+}
+.card-img-top{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
